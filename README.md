@@ -39,6 +39,10 @@ Ministry of Railway
 
 3. The system calculates the shortest path and shows step-by-step directions. Voice guidance is also provided for visually impaired passengers.
 
+### Proposed Solution Diagranm
+
+<img width="543" height="712" alt="proposed solution" src="https://github.com/user-attachments/assets/97f093ac-da19-4313-82b8-83e39e5bcdab" />
+
 ## Architecture Diagram
 
 <img width="1536" height="1024" alt="architecture diagram" src="https://github.com/user-attachments/assets/cf24f2d3-ba93-463c-b183-c2d8177feaa2" />
@@ -50,6 +54,10 @@ Ministry of Railway
 2. Passengers can use the system to search for facilities, scan QR codes, get directions and use voice navigation.
 
 3. Station administrators can update the station map when there are changes in facility locations or routes.
+
+### Use Case Diagranm
+
+<img width="537" height="713" alt="usecase" src="https://github.com/user-attachments/assets/0a87c0c8-34ef-438c-ac87-72efb8b8cef2" />
 
 ## Technology Stack
 
