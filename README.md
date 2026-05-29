@@ -39,7 +39,7 @@ Ministry of Railway
 
 3. The system calculates the shortest path and shows step-by-step directions. Voice guidance is also provided for visually impaired passengers.
 
-### Proposed Solution Diagranm
+### Proposed Solution Diagram
 
 <img width="543" height="712" alt="proposed solution" src="https://github.com/user-attachments/assets/97f093ac-da19-4313-82b8-83e39e5bcdab" />
 
@@ -55,7 +55,7 @@ Ministry of Railway
 
 3. Station administrators can update the station map when there are changes in facility locations or routes.
 
-### Use Case Diagranm
+### Use Case Diagram
 
 <img width="537" height="713" alt="usecase" src="https://github.com/user-attachments/assets/0a87c0c8-34ef-438c-ac87-72efb8b8cef2" />
 
